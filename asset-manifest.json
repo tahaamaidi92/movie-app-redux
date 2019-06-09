@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/movie-app-redux/static/css/main.7d15e16b.chunk.css",
+    "main.js": "/movie-app-redux/static/js/main.01afb866.chunk.js",
+    "main.js.map": "/movie-app-redux/static/js/main.01afb866.chunk.js.map",
+    "runtime~main.js": "/movie-app-redux/static/js/runtime~main.1d159a58.js",
+    "runtime~main.js.map": "/movie-app-redux/static/js/runtime~main.1d159a58.js.map",
+    "static/js/2.ac4c067d.chunk.js": "/movie-app-redux/static/js/2.ac4c067d.chunk.js",
+    "static/js/2.ac4c067d.chunk.js.map": "/movie-app-redux/static/js/2.ac4c067d.chunk.js.map",
+    "index.html": "/movie-app-redux/index.html",
+    "precache-manifest.55dcdde8506a6234a9e36b2cfe641081.js": "/movie-app-redux/precache-manifest.55dcdde8506a6234a9e36b2cfe641081.js",
+    "service-worker.js": "/movie-app-redux/service-worker.js",
+    "static/css/main.7d15e16b.chunk.css.map": "/movie-app-redux/static/css/main.7d15e16b.chunk.css.map"
+  }
+}
